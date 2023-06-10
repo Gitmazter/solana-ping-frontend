@@ -57,3 +57,7 @@
   border: 0;
   font-family: "Roboto", sans-serif;
 }
+.pingReceipt {
+  text-decoration: none;
+  color: white;
+}
